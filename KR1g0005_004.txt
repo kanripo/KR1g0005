@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 程氏經說
-#+DATE: 2015-09-23 09:41:00
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:18:34.042281
+#+PROPERTY: ID KR1g0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1g0005_WYG_004-1a>¶
 欽定四庫全書¶
 　程氏經說卷四¶
@@ -452,4 +454,3 @@
 　¶
 　¶
 　程氏經說卷三¶
-

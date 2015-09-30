@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 程氏經說
-#+DATE: 2015-09-23 09:41:00
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:18:34.004467
+#+PROPERTY: ID KR1g0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1g0005_WYG_002-1a>¶
 欽定四庫全書¶
 　程氏經説卷二¶
@@ -434,4 +436,3 @@
 　¶
 　¶
 　程氏經説卷二¶
-
